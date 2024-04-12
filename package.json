@@ -1,33 +1,46 @@
 {
-  "name": "one-darker-improved",
-  "displayName": "one-darker-improved",
-  "description": "",
-  "version": "0.0.1",
-  "publisher": "justmeon",
-  "engines": {
-    "vscode": "^1.88.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "one dark",
-    "theme",
-    "dark theme",
-    "one darker improved",
-    "one darker",
-    "one-darker-improved"
-  ],
-  "repository": {
-    "url": "https://github.com/Eftiand/one-darker-improved"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "one-darker-improved",
-        "uiTheme": "vs-dark",
-        "path": "./themes/one-darker-improved-color-theme.json"
-      }
-    ]
-  }
+	"name": "one-darker-improved",
+	"displayName": "one-darker-improved",
+	"description": "",
+	"version": "0.0.1",
+	"icon": "./img/One-darker-imroved.png",
+	"publisher": "justmeon",
+	"engines": {
+		"vscode": "^1.88.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"one dark",
+		"theme",
+		"dark theme",
+		"one darker improved",
+		"one darker",
+		"one-darker-improved"
+	],
+	"repository": {
+		"url": "https://github.com/Eftiand/one-darker-improved"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "one-darker-improved",
+				"uiTheme": "vs-dark",
+				"path": "./themes/one-darker-improved-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a256906f-a846-40ea-b359-23b5992ab77f",
+		"publisherId": "4c30be7d-4a25-488b-9940-3024e91d0b8f",
+		"publisherDisplayName": "justmeon",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1712906697418,
+		"pinned": false,
+		"source": "gallery"
+	}
 }
