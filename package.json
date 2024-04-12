@@ -1,0 +1,33 @@
+{
+  "name": "one-darker-improved",
+  "displayName": "one-darker-improved",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "justmeon",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "one dark",
+    "theme",
+    "dark theme",
+    "one darker improved",
+    "one darker",
+    "one-darker-improved"
+  ],
+  "repository": {
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "one-darker-improved",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-darker-improved-color-theme.json"
+      }
+    ]
+  }
+}
