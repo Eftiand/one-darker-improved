@@ -2,8 +2,8 @@
 	"name": "one-darker-improved",
 	"displayName": "one-darker-improved",
 	"description": "",
-	"version": "0.0.1",
-	"icon": "./img/One-darker-improved.png",
+	"version": "0.0.2",
+	"icon": "img/One-darker-improved.png",
 	"publisher": "justmeon",
 	"engines": {
 		"vscode": "^1.88.0"
