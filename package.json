@@ -2,7 +2,7 @@
 	"name": "one-darker-improved",
 	"displayName": "one-darker-improved",
 	"description": "",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"icon": "img/One-darker-improved.png",
 	"publisher": "justmeon",
 	"engines": {
@@ -41,6 +41,6 @@
 		"hasPreReleaseVersion": false,
 		"installedTimestamp": 1712906697418,
 		"pinned": false,
-		"source": "gallery",
+		"source": "gallery"
 	}
 }

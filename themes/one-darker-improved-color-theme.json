@@ -253,7 +253,7 @@
       {
         "name": "Orange for Interfaces",
         "scope": ["entity.name.type.interface"],
-        "settings": { "foreground": "#f5a623" }
+        "settings": { "foreground": "#ff9900" }
       }
     ],
     "type": "dark"
