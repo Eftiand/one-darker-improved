@@ -249,6 +249,11 @@
         "name": "Always bold",
         "scope": ["heading", "markup.bold"],
         "settings": { "fontStyle": "bold" }
+      },
+      {
+        "name": "Orange for Interfaces",
+        "scope": ["entity.name.type.interface"],
+        "settings": { "foreground": "#f5a623" }
       }
     ],
     "type": "dark"
